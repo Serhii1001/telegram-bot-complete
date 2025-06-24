@@ -1,7 +1,7 @@
 # config.example.py
 
 # Токен вашего бота, полученный у BotFather
-BOT_TOKEN = 'YOUR_TELEGRAM_BOT_TOKEN_HERE'
+BOT_TOKEN = '7925711845:AAGsI5CamwwtBhgPlxlqKkX1414dmOyU--U'
 
 # Список фраз для автоматических ответов
 PHRASES = [
